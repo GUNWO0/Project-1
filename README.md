@@ -16,4 +16,7 @@
 2. 필요한 패키지를 설치합니다:
    ```bash
    pip install -r requirements.txt
+3. Flask 서버를 시작합니다
+    python app.py
+
 
